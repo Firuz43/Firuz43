@@ -16,6 +16,12 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
+</br>
+
+[website]: https://Firuz43.github.io/
+[linkedin]: https://www.linkedin.com/in/firuz-chamarov/
+[instagram]: https://www.instagram.com/freddy1112/
+[vk]: https://vk.com/f.atobekov
 <!--
 **Firuz43/Firuz43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
