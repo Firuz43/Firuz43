@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 💪 I like to write code
+
 🥅 I am constantly learning new things
 <!--
 **Firuz43/Firuz43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
