@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Firuz Chamarov
+## Hi there 👋 I'm Firuz Chamarov
 
 💪 I like to write code
 
