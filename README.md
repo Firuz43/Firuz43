@@ -5,8 +5,7 @@
 🥅 I am constantly learning new things
 
 💻 I am currently learning docker and linux
-
-
+</br>
 </br>
 
 ### Languages and Tools:
