@@ -6,7 +6,6 @@
 
 💻 I am currently learning docker and linux
 </br>
-</br>
 
 ### Languages and Tools:
 
