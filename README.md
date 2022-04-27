@@ -1,5 +1,4 @@
 ## Hi there 👋 I'm Firuz Chamarov
-</br>
 
 💪 I like to write code
 
