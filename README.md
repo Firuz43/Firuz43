@@ -33,7 +33,7 @@
 </p>
 </br>
 
-</br>
+
 
 [website]: https://Firuz43.github.io/
 [linkedin]: https://www.linkedin.com/in/firuz-chamarov/
