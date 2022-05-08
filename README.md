@@ -5,7 +5,7 @@
 
 🥅 I am constantly learning new things
 
-💻 I am currently learning docker and linux
+💻 I am currently learning WEB3 development)
 </br>
 </br>
 
