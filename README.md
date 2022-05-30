@@ -6,7 +6,7 @@
 🥅 I am constantly learning new things
 
 💻 I am currently learning WEB3.0 development)
-</br>
+
 </br>
 
 ### Languages and Tools:
