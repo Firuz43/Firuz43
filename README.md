@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Firuz Chamarov
 </br>
-</br>
 💪 I like to write code
 
 🥅 I am constantly learning new things
