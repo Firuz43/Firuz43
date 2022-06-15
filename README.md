@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Firuz Chamarov
 </br>
 💪 I like to write code
-</br>
 🥅 I am constantly learning new things
 </br>
 💻 I am currently learning WEB3.0 development Solidity)
