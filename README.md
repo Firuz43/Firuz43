@@ -4,7 +4,7 @@
 </br>
 🥅 I am constantly learning new things
 </br>
-💻 I am currently learning WEB3.0 development Solidity)
+💻 Developing)
 
 </br>
 </br>
