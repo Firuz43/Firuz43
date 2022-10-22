@@ -4,7 +4,8 @@
 </br>
 🥅 I am constantly learning new things
 </br>
-]💻 Developing)
+</br>
+💻 Developing)
 
 ### Languages and Tools:
 </br>
